@@ -1,0 +1,16 @@
+.container-input{
+ display: flex;
+ flex-direction: column;
+ text-align: left;
+}
+.container-input input{
+  border-radius: 5px;
+  height: 40px;
+  width: 100%;
+  border: 1px solid #ccc;
+  margin-bottom: 24px;
+ }
+ .container-input label{
+  font-weight: bold;
+  color: #666;
+ }
